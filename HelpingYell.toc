@@ -1,0 +1,7 @@
+## Interface : 11200
+## Title : |cFFFF8080TNS|r's HelpingYell
+## Notes : Yell in the chat when your health or someone in your party's drops to 15%
+## Version : 1.0
+## Author : rmarc29 (aka TNS)
+
+HelpingYell.lua
